@@ -20,7 +20,6 @@ telegram_message() {
 
 # Clone the Sync Repo
 repo init --depth=1 -u $MANIFEST
-rm -r /root/twrp//.repo
 cd ~/twrp
 
 # Sync the Sources
