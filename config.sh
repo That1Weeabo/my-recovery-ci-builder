@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Device
-export DT_LINK="https://github.com/mastersenpai0405/recovery_device_infinix_X683"
+export DT_LINK="https://github.com/TypicalGamer07/Samsung-Galaxy-F02s"
 
-export DEVICE="X683"
-export OEM="infinix"
+export DEVICE="F02s"
+export OEM="Samsung"
 export TARGET="recoveryimage"
 
 export OUTPUT="recovery.img"
