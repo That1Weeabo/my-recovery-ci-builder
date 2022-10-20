@@ -19,7 +19,7 @@ telegram_message() {
 }
 
 # Clone the Sync Repo
-cd ~/root/twrp
+cd ~/twrp .repo
 
 # Sync the Sources
 repo sync || { echo "ERROR: Failed to TWRP source!" && exit 1; }
